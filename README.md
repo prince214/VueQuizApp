@@ -27,4 +27,4 @@ My 1st Build in Vue.js
 # Prince Paraste
 # API USED:
 opentdb api
-
+The API Fetches New Questions everytime
