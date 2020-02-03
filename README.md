@@ -23,3 +23,8 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # VueQuizApp
+My 1st Build in Vue.js
+#Prince Paraste
+# API USED:
+opentdb api
+
